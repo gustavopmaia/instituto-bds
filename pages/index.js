@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+// import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -21,9 +21,10 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="#" className={styles.card}>
+          <a href="https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDM1NzMyNzQ2MjQifQ" className={styles.card}>
             <h2>Negativo </h2>
             <p>Empresa especializada em servicos com arduino</p>
+            <span>Precisa estar logado</span>
           </a>
 
           <a href="#" className={styles.card}>
