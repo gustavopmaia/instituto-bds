@@ -28,8 +28,8 @@ export default function Home() {
           </a>
 
           <a href="#" className={styles.card}>
-            <h2>Aplicativo para autista</h2>
-            <p>Um aplicativo para auxiliar pessoas autistas</p>
+            <h2>Stage</h2>
+            <p>App educacional para: organização de estudo, e acompanhamento de alunos</p>
           </a>
         </div>
       </main>
